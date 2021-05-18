@@ -1,0 +1,13 @@
+name: EnrichTool21
+title: EnrichTool21
+username:
+account: junjunlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4027342
+bundleId: 4516522
+url: https://junjunlab.shinyapps.io/EnrichTool21/
+when: 1619353756.97459
+lastSyncTime: 1619353756.97459
+asMultiple: FALSE
+asStatic: FALSE
