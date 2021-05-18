@@ -1,0 +1,13 @@
+name: heatmaplot
+title: heatmaplot
+username:
+account: junjunlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3954395
+bundleId: 4468553
+url: https://junjunlab.shinyapps.io/heatmaplot/
+when: 1618372145.92164
+lastSyncTime: 1618372145.92164
+asMultiple: FALSE
+asStatic: FALSE
